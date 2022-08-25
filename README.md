@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chumbed10s
 - 👀 I’m interested in Developing Bots on discord
-- 🌱 I’m currently learning Python and some Javascript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Discord Chumbed10s#5873 or Telegram @chumbed10s
 
 <!---
